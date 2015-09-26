@@ -1,0 +1,31 @@
+#fundal {
+    width: 1000px;
+    padding: 20px;
+    border: none;
+    margin: 0 auto;
+    background-color: #FFEB99;
+    box-shadow: 5px 5px 5px #999999;
+}
+div {
+    width: 700px;
+    height: 200px;
+    background-color: #FFFFAD;
+    border: none;
+    margin: 20px;
+    padding: 20px;
+    box-shadow: 5px 5px 5px #999999; 
+}
+p {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 1em;
+    font-style: normal;
+    color: #291400;
+    text-align: justify;
+    text-indent: 40px;
+    padding: 2px 225px 5px 5px;
+}
+img {
+    width: 200px;
+    height: 200px;
+    float: right;
+}
