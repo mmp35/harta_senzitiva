@@ -8,8 +8,7 @@
 }
 div {
     width: 700px;
-    height: 200px;
-    background-color: #FFFFAD;
+    background-color: #FFFFEB;
     border: none;
     margin: 20px;
     padding: 20px;
@@ -19,13 +18,13 @@ p {
     font-family: "Times New Roman", Times, serif;
     font-size: 1em;
     font-style: normal;
-    color: #291400;
+    color: #003300;
     text-align: justify;
     text-indent: 40px;
     padding: 2px 225px 5px 5px;
 }
 img {
-    width: 200px;
-    height: 200px;
+    width: 400px;
+    height: 400px;
     float: left;
 }
