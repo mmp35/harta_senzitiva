@@ -15,12 +15,17 @@ div {
     text-align: justify;
     padding: 5px 5px 5px 30px;
 }
-.componente{
+p.componente{
     font-family: "Times New Roman", Times, serif;
     font-size: 1em;
     font-style: normal;
     color: #003300;
     text-align: justify;
     text-indent: 40px;
-    padding: 0px 20px 20px 320px;
+    padding: 0px 20px 20px 20px;
+}
+img.imagini {
+    width: 250px; 
+    height: 250px; 
+    float: left;
 }
