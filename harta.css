@@ -28,4 +28,5 @@ img.imagini {
     width: 250px; 
     height: 250px; 
     float: left;
+    margin-right: 30px;
 }
